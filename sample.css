@@ -1,0 +1,15 @@
+h1, h2, p { 
+	background-color: pink;
+	color: violet;
+}
+
+#this {
+	background-color: black;
+	color: yellow;
+}
+
+.group {
+	background-color: pink;
+	color: lightgreen;
+	font-size: 20px;
+}
